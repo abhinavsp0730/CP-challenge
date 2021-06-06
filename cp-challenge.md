@@ -5,5 +5,9 @@ I've challenged myself to solve 60+ competitive programming challenge questions 
 ### Day-1 (06/06/2021)
 | Questions     | Attempted     | Solved       |
 | ------------- | ------------- |------------- |
-|Q.1 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | :heavy_check_mark:  |         |
-| Content Cell  | Content Cell  |                                                                              |
+|Q.1 [Merge Two Sorted Lists](https://leetcode.com/submissions/detail/503995625/) | :heavy_check_mark:  |   :heavy_check_mark:      |
+|Q.2   |   | |
+|  Q.3 |   | |
+
+**Remark:** I'm able to only complete/attemp one question because it took me 8+ hrs 😢 . And talking about my submission I've used recursive approch to increase my depth in recurssion. 
+I'm so much happy and I've literally cried after having successfull submission in leetcode  😅
