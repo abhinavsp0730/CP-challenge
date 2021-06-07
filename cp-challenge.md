@@ -16,5 +16,5 @@ I'm so much happy and I've literally cried after having successfull submission i
 | Questions     | Attempted     | Solved       |
 | ------------- | ------------- |------------- |
 |Q.1 [Pow(x, n)](https://leetcode.com/submissions/detail/504484657/) | :heavy_check_mark:  |   :heavy_check_mark:      |
-|Q.2 [K-th Symbol in Grammar](https://leetcode.com/submissions/detail/504536056/)   |   | |
-|  Q.3 |  :heavy_check_mark: | :heavy_check_mark:  |
+|Q.2 [K-th Symbol in Grammar](https://leetcode.com/submissions/detail/504536056/)   |  :heavy_check_mark: | :heavy_check_mark: |
+|  Q.3 |   |   |
