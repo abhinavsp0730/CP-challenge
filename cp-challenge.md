@@ -15,6 +15,6 @@ I'm so much happy and I've literally cried after having successfull submission i
 ### Day-2 (07/06/2021)
 | Questions     | Attempted     | Solved       |
 | ------------- | ------------- |------------- |
-|Q.1 [Pow(x, n)]() | :heavy_check_mark:  |   :heavy_check_mark:      |
+|Q.1 [Pow(x, n)](https://leetcode.com/submissions/detail/504484657/) | :heavy_check_mark:  |   :heavy_check_mark:      |
 |Q.2 [K-th Symbol in Grammar]()   |   | |
 |  Q.3 |   | |
