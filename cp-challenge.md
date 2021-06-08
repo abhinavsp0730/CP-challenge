@@ -19,9 +19,9 @@ I'm so much happy and I've literally cried after having successfull submission i
 |Q.2 [K-th Symbol in Grammar](https://leetcode.com/submissions/detail/504536056/)   |  :heavy_check_mark: | :heavy_check_mark: |
 |  Q.3 |   |   |
 
-### Day-2 (08/06/2021)
+### Day-3 (08/06/2021)
 | Questions     | Attempted     | Solved       |
 | ------------- | ------------- |------------- |
-|Q.1 [Add Two Numbers]() |   |       |
-|Q.2 [Swap Nodes in Pairs]()   |   |  |
+|Q.1 [Add Two Numbers](https://leetcode.com/submissions/detail/505044639/) |  :heavy_check_mark: |  :heavy_check_mark:     |
+|Q.2    |   |  |
 |  Q.3 |   |   |
