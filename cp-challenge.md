@@ -18,3 +18,10 @@ I'm so much happy and I've literally cried after having successfull submission i
 |Q.1 [Pow(x, n)](https://leetcode.com/submissions/detail/504484657/) | :heavy_check_mark:  |   :heavy_check_mark:      |
 |Q.2 [K-th Symbol in Grammar](https://leetcode.com/submissions/detail/504536056/)   |  :heavy_check_mark: | :heavy_check_mark: |
 |  Q.3 |   |   |
+
+### Day-2 (08/06/2021)
+| Questions     | Attempted     | Solved       |
+| ------------- | ------------- |------------- |
+|Q.1 [Add Two Numbers]() |   |       |
+|Q.2 [Swap Nodes in Pairs]()   |   |  |
+|  Q.3 |   |   |
