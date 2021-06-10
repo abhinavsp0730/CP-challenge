@@ -27,3 +27,9 @@ I'm so much happy and I've literally cried after having successfull submission i
 |  Q.3 |   |   |
 
 Remark: Yaar bass 1 hi solve ho paya. But linked list ke concept sare clear hogye kuki uspe bhut bugs aya tah. Pure din debugging kiya aaj.
+### Day-4 (09/06/2021)
+| Questions     | Attempted     | Solved       |
+| ------------- | ------------- |------------- |
+|Q.1 N-th Tribonacci Number |  :heavy_check_mark: |  :heavy_check_mark:     |
+|Q.2   Swap Nodes in Pairs | :heavy_check_mark  | :heavy_check_mark |
+|  Q.3 |   |   |
