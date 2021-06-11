@@ -33,3 +33,9 @@ Remark: Yaar bass 1 hi solve ho paya. But linked list ke concept sare clear hogy
 |Q.1 N-th Tribonacci Number |  :heavy_check_mark: |  :heavy_check_mark:     |
 |Q.2   Swap Nodes in Pairs | :heavy_check_mark:  | :heavy_check_mark: |
 |  Q.3 |   |   |
+### Day-5 (10/06/2021)
+| Questions     | Attempted     | Solved       |
+| ------------- | ------------- |------------- |
+|Q.1 [Subsets](https://leetcode.com/submissions/detail/506390410/) | :heavy_check_mark:  | :heavy_check_mark: |
+|Q.2  |   |   |
+|  Q.3 |   |   |
