@@ -45,3 +45,19 @@ Remark: Yaar bass 1 hi solve ho paya. But linked list ke concept sare clear hogy
 |Q.1 [Subsets 2](https://leetcode.com/submissions/detail/506470167/) | :heavy_check_mark:  | :heavy_check_mark: |
 |Q.2  |   |   |
 |  Q.3 |   |   |
+
+### Day-7 (12/06/2021)
+Solved 1-2 ds question from tech interview exam.
+
+**LOST My mental peace and hencce not able to do it for few days.**
+
+
+
+### Day-8 (8/06/2021)
+### Day-5 (10/06/2021)
+| Questions     | Attempted     | Solved       |
+| ------------- | ------------- |------------- |
+|Q.1 [climbing-stairs](https://leetcode.com/submissions/detail/509795111/) | :heavy_check_mark:  | :heavy_check_mark: |
+|Q.2  |   |   |
+|  Q.3 |   |   |
+
